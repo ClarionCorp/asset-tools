@@ -1,0 +1,7 @@
+.env
+*.uasset
+*.webp
+*.png
+*.json
+*.ini
+Titles/output.ts
